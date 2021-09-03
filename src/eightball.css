@@ -1,0 +1,15 @@
+.Eightball {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.Eightball-msg {
+  text-align: center;
+  margin: 100px;
+  color: white;
+}
